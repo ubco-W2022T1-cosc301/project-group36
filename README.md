@@ -26,7 +26,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project).
 
 - Person 1: one sentence about you!
 - Rishabh Pal: I am a 5th year management major with a minor in economics!
-- Person 3: I am a 2nd year engineering major with an interest in computers!
+- Shreyas Bhatt: I am a 2nd year engineering major with an interest in computers!
 
 ## Images
 
