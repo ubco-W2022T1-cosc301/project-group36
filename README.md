@@ -25,7 +25,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project).
 **Please remember to update this section**
 
 - Person 1: one sentence about you!
-- Person 2: one sentence about you!
+- Rishabh Pal: I am a 5th year management major with a minor in economics!
 - Person 3: one sentence about you!
 
 ## Images
