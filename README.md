@@ -16,7 +16,7 @@ The dataset we will be using for our group analysis project is called ‘Google 
 
 - Sanjith Senthil: I am a 2nd year computer science major with a minor in data science!
 - Rishabh Pal: I am a 5th year management major with a minor in economics!
-- Shreyas Bhatt: I am a 2nd year engineering major with an interest in computers!
+- Shreyas Bhatt: I am a 2nd year engineering major with an interest in computers! Currently taking electrical engineering
 
 ## Images
 
