@@ -1,7 +1,6 @@
 import pandas as pd
 import numpy as np
 import seaborn as sns
-import matplotlib.pyplot as plt
 
 def load_and_process(url_or_path_to_csv_file):
     #Method Chain
