@@ -2,10 +2,6 @@ import pandas as pd
 import numpy as np
 import seaborn as sb
 
-
-def load_and_process(url_or_path_to_csv_file):
-    
-    
 # We had asked the prof and he said we could use these steps because we could not convert
 #some steps properly
 
