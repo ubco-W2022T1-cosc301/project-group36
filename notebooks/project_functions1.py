@@ -19,5 +19,6 @@ def load_and_process(url_or_path_to_csv_file):
     df['Size (MB)'] = df['Size (MB)'].astype(float)
     df['Price ($)'] = df['Price ($)'].apply(lambda x: str(x).replace('$', '') if '$' in str(x) else x)
     df['Price ($)'] = df['Price ($)'].astype(float)
+    df['Reviews'] = df['Reviews'].astype(float)
     
     return df
