@@ -6,7 +6,7 @@ def load_and_process(url_or_path_to_csv_file):
     #Method Chain 1
     df = (
         pd.read_csv(url_or_path_to_csv_file)
-        .drop(["Price", "Category","Current Ver","Android Ver", "Last Updated"],axis=1)
+        .drop(["Price","Current Ver","Android Ver", "Last Updated"],axis=1)
         .dropna()
         .reset_index()
         .rename(columns = {'Size':'Size MB','Reviews':'No. of reviews','Installs':'Downloads','Content Rating':'Audience'})
