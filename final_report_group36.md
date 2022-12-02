@@ -42,7 +42,7 @@ Both free and paid apps have a very similar distribution in terms of their size.
 
 More than half of the apps available on the google play store have a size between 5 MB and 33 MB.
 
-### Summary and Conclusion
+## Summary and Conclusion
 1. The apps belonging to the Family and Game category have the highest market prevelance. It's interesting to note that the Tools and Productivity apps are also catching up. The google play store is least tailored towards customers looking for apps of the Beauty and Events category.
 2. The majority of apps available on the Google Play store are intended for all users, regardless of their age. The number of unrated and adult only apps are very minimal. This is done so that the apps are accessible to a wider audience.
 3. A large proportion of apps in the google play store are free (93.1%). As a result, the play store attracts those audiences that are purely searching for only free applications. The rest apps are paid (6.9%). Most of the paid apps on the google play store cost under 20$, which is niether too cheap nor too expensive. Hence, it is targeted to customers of any income.
@@ -107,7 +107,7 @@ Apps in the 3.5 - 4 rating group are the only different ones wheres apps sized 0
 
 This could be becuase apps in this group are a lower overall proportion than apps rated higher and could lack functionality that comes with higher app sizes that could lead to better ratings.
 
-### Summary and Conclusion
+## Summary and Conclusion
 1. Apps that belong to categories that have a mass appeal are more likely to be installed with apps being in the communication, social and productivity categories being the most installed. Developers should therefore try to create apps that can be used many people and even if they want to target a specific niche, they could try adding social and communication feautures to their apps to boost their install rates.
 2. Higher ratings lead to a higher number of installs. So developers should continously monitor app reviews and implement changes requested by their users to increase app rating.
 3. People do not mind downloading bigger sized apps so while developers should not create bloated apps just to increase size, they should not hesitate in adding additional functionality because their app size might increase.
@@ -157,7 +157,7 @@ The highest rated categories are 'Health and Fitness' and 'Books and Reference'.
 
 The lowest rated categories are 'Dating', 'Maps and Navigation' and 'Lifestyle'.
 
-### Summary and Conclusion
+## Summary and Conclusion
 
 1. Since ratings are being quantized, most people just rate apps very highly and opinions converge towards somewhere between an average of 4-5 star rated apps. This does become more pronounced when apps are more popularly downloaded. Although while this average value is known to converge, curiously the deviation is more irregular in that it tends to be alot lesser on niche categories of apps such as those with few downloadsor of being a niche genre altogether.
 
