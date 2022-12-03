@@ -6,19 +6,19 @@ In the hyperconnected world today, most of us spend a lot of time on our phones 
 
 Through our exploratory data analysis, we confirmed some of the things we already suspected and found new pieces of information that helped inform our analysis. Unsurprisingly, we found that the vast majority of apps on the Play Store are free of cost. This wasn’t unusual as we can safely assume that paid apps are downloaded much lesser than free apps and most app publishers rely on in-app purchases and ads for revenue. 
 
-![FreeVsPaid](images/Free vs Paid.png)
+![FreeVsPaid](images/Free_vs_Paid_Apps.png)
 
 The findings on the distribution of app ratings was surprising as we would have assumed that there would have been a bigger split between ratings on the lower end and the higher end. We found that the majority of apps were rated higher with the most being in the 4 to 5 star range. The number of 1 star ratings were way lesser than what we would have otherwise thought.
 
-![App Ratings](images/App Rating distribution.png)
+![App Ratings](images/App_Rating_distribution.png)
 
 We also found that most apps on the play store had the ‘Everyone’ content rating, followed by Teen and Mature (17+). This makes sense as publishers of apps would want to cast as wide a net as possible to gain higher market shares. Limiting the number of people who can download your app would be detrimental to the app’s overall popularity.
 
-![Content Ratings](images/Content Rating Distribution.png)
+![Content Ratings](images/Content_Rating_Distribution.png)
 
 With this visualization, we confirmed our earlier findings as the app pricing results did not deviate when compared across Content Ratings. Paid apps were a significantly smaller proportion of all apps in all content ratings. 
 
-![Content Rating & Price](images/Content Rating with Price.png)
+![Content Rating & Price](images/Content_Rating_with_Prices.png)
 
 # Question 1: Which type of Apps have the highest share on the google play store?
 
