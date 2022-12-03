@@ -1,6 +1,24 @@
 # Introduction
 
+In the hyperconnected world today, most of us spend a lot of time on our phones on a daily basis. The majority of this time is spent using applications that span a broad range of categories. Depending on the type of device you own, these applications can be seamlessly downloaded from two main digital distributors - the Google Play Store and the Apple App Store. For this project, our group explored a dataset on a collection of applications on the Google Play Store. Our group was interested in analyzing this dataset to explore three main topics - Installs, Ratings and the overall share of apps depending on various attributes. A lot goes into creating a successful app and app developers spend a lot of time trying to create apps that can be widely used by their target audience. Our motive with this analysis was to try and gain insights that can inform app development and to gain a better understanding on how various factors might affect how the app performs. 
+
 # Exploratory Data Analysis
+
+Through our exploratory data analysis, we confirmed some of the things we already suspected and found new pieces of information that helped inform our analysis. Unsurprisingly, we found that the vast majority of apps on the Play Store are free of cost. This wasn’t unusual as we can safely assume that paid apps are downloaded much lesser than free apps and most app publishers rely on in-app purchases and ads for revenue. 
+
+![FreeVsPaid](images/Free vs Paid.png)
+
+The findings on the distribution of app ratings was surprising as we would have assumed that there would have been a bigger split between ratings on the lower end and the higher end. We found that the majority of apps were rated higher with the most being in the 4 to 5 star range. The number of 1 star ratings were way lesser than what we would have otherwise thought.
+
+![App Ratings](images/App Rating distribution.png)
+
+We also found that most apps on the play store had the ‘Everyone’ content rating, followed by Teen and Mature (17+). This makes sense as publishers of apps would want to cast as wide a net as possible to gain higher market shares. Limiting the number of people who can download your app would be detrimental to the app’s overall popularity.
+
+![Content Ratings](images/Content Rating Distribution.png)
+
+With this visualization, we confirmed our earlier findings as the app pricing results did not deviate when compared across Content Ratings. Paid apps were a significantly smaller proportion of all apps in all content ratings. 
+
+![Content Rating & Price](images/Content Rating with Price.png)
 
 # Question 1: Which type of Apps have the highest share on the google play store?
 
