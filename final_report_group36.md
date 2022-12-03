@@ -12,8 +12,6 @@ You can find the links to the dataset and the full analysis notebook here:
 
 [Analysis 3 Notebook Link](notebooks/analysis3.ipynb)
 
-<hr>
-
 # Exploratory Data Analysis
 
 Through our exploratory data analysis, we confirmed some of the things we already suspected and found new pieces of information that helped inform our analysis. In addition, we found the number of rows, columns and unique values of diferent attributes in the dataset. We also identified null values, outliers and the range of values that each attribute takes on. To begin with, we use a heatmap to see how various app related attributes in this dataset are correlated to each other.
