@@ -4,19 +4,19 @@ In the hyperconnected world today, most of us spend a lot of time on our phones 
 
 # Exploratory Data Analysis
 
-Through our exploratory data analysis, we confirmed some of the things we already suspected and found new pieces of information that helped inform our analysis. Unsurprisingly, we found that the vast majority of apps on the Play Store are free of cost. This wasn’t unusual as we can safely assume that paid apps are downloaded much lesser than free apps and most app publishers rely on in-app purchases and ads for revenue. 
-
-![FreeVsPaid](images/Free_vs_Paid_Apps.png)
+Through our exploratory data analysis, we confirmed some of the things we already suspected and found new pieces of information that helped inform our analysis. To begin with, we use a heatmap to see how various app related attributes in this dataset are correlated to each other. It is evident that reviews and installs have the strongest positive correlation. This makes sense as in most cases, higher reviews would encourage more people to download a specific app. We can also see that Rating and Price have the worst correlation. We suspect this is because users who have paid for apps would have higher expectations and are more likely to be critical if the app doesn't meet their expectations.
+ 
+![Heatmap](images/Heatmap.png)
 
 The findings on the distribution of app ratings was surprising as we would have assumed that there would have been a bigger split between ratings on the lower end and the higher end. We found that the majority of apps were rated higher with the most being in the 4 to 5 star range. The number of 1 star ratings were way lesser than what we would have otherwise thought.
 
 ![App Ratings](images/App_Rating_distribution.png)
 
-We also found that most apps on the play store had the ‘Everyone’ content rating, followed by Teen and Mature (17+). This makes sense as publishers of apps would want to cast as wide a net as possible to gain higher market shares. Limiting the number of people who can download your app would be detrimental to the app’s overall popularity.
+Our earlier findings are consistent in this visualization where we can see that app ratings are generally high across all categories with most app categories having an overall rating above 4. Apps in the Health and Fitness category tend to have better ratings than the rest while apps in the dating category did not seem to perform as well with around 50% of apps in it falling below the 4 rating.
 
-![Content Ratings](images/Content_Rating_Distribution.png)
+![Content Ratings](images/Violin.png)
 
-With this visualization, we confirmed our earlier findings as the app pricing results did not deviate when compared across Content Ratings. Paid apps were a significantly smaller proportion of all apps in all content ratings. 
+With this visualization, we can see how apps in this dataset are distributed across content ratings along with whether they are free or paid. Most apps have the ‘Everyone’ content rating and paid apps are a significantly smaller proportion of overall apps in each content rating. 
 
 ![Content Rating & Price](images/Content_Rating_with_Price.png)
 
