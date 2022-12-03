@@ -18,7 +18,7 @@ We also found that most apps on the play store had the ‘Everyone’ content ra
 
 With this visualization, we confirmed our earlier findings as the app pricing results did not deviate when compared across Content Ratings. Paid apps were a significantly smaller proportion of all apps in all content ratings. 
 
-![Content Rating & Price](images/Content_Rating_with_Prices.png)
+![Content Rating & Price](images/Content_Rating_with_Price.png)
 
 # Question 1: Which type of Apps have the highest share on the google play store?
 
