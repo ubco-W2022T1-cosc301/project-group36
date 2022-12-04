@@ -210,4 +210,4 @@ Since ratings are quantized in nature and people are fairly generous, it is unsu
 
 On the whole, people have a large variety of responses to popular apps although predictably this aggregrates to the same rating of between 4-5 star more or less. This is contrast to niche apps which somehow have more people in united agreement of an app being either good or bad. Popular apps have an ambigius response from users.
 
-I have also learnt that ratings are also sort of imprecise and that it does not reveal as much information as I originally anticipated. Perhaps if ratings were not quantized, and people could rate decimals between 4-5 star, I suspect more people would vote in that range than a 5 star straight away. This could then reveal more data down the line.
+I have also learnt that ratings are also sort of imprecise and that it does not reveal as much information as I originally anticipated. Perhaps if ratings were not quantized, and people could rate decimals between 4-5 star, I suspect more people would vote in that range than a 5 star straight away. This could then reveal more data down the line. 
