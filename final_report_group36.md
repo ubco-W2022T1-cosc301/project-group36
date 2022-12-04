@@ -169,11 +169,9 @@ You can find the full analysis notebook of this research question here, includin
 
 ### Observations:
 
-Apps with very less downloads are highly rated.
+Apps with very less downloads are generally highly rated. This is probably becauseusers must provide a rating of either 5 stars or 4 stars. Apps with fewer downloads are probably simple niche apps and are so possibly more likely to satisfy a user's specific need and thereby recieve a 5 star rating.
 
-Generally, users use popular apps more as they tend to have more utility and are thus able to find flaws and end up rating them lowly.
-
-People are very generous with rating apps all round.
+Generally, apps with a higher number of installs tend to be items categorized under social media or possibly other utility based apps that users likely use on a frequent basis. This could mean that users are thus able to find more flaws on using these apps and could be the reason to why we see that popular apps tend to be lower rated than apps with lower downloads or apps in the medium, range.
 
 ### Visualization 2: Rating vs Size
 
@@ -182,7 +180,7 @@ People are very generous with rating apps all round.
 ### Observations:
 The rating of an app increases as its size increases.
 
-Most people rate apps between 4-5 and we can clearly see that this is where the bulk of the distribution takes place.
+Most people rate apps between 4-5 and we can clearly see on the bar distribution on the right  that this is where the bulk of the distribution takes place. This also illustrates that people tend to be quite generous with their rating as opposed to one's preconcieved notion of negative reviews being overrepresented.
 
 ### Visualization 3: Rating vs Content Rating with Type
 
@@ -191,7 +189,7 @@ Most people rate apps between 4-5 and we can clearly see that this is where the 
 ### Observations:
 There is no substantial difference between Audience and rating, which is fairly reasonable.
 
-Paid apps are higher rated in comparison to those apps that are free. This is although fairly marginal.
+Although paid apps are higher rated in comparison to those apps that are free. This although fairly marginal, is quite consistent and does make sense. Note that unrated apps are not eligible to be monetized and thus does not have a bar.
 
 This range is rather massive, notably being exponential in nature.
 
@@ -200,7 +198,7 @@ This range is rather massive, notably being exponential in nature.
 ![Rating vs Category](images/Rating_vs_Category.png)
 
 ### Observations:
-Almost all app categories perform decently.
+As illustrated above, the varience between different app categories is large and no clear trend is visible. Although broadly speaking, it does seem that utility/education related apps may perform marginally better than other apps.
 
 The highest rated categories are 'Health and Fitness' and 'Books and Reference'.
 
@@ -208,7 +206,7 @@ The lowest rated categories are 'Dating', 'Maps and Navigation' and 'Lifestyle'.
 
 ## Summary and Conclusion:
 
-Since ratings are being quantized, most people just rate apps very highly and opinions converge towards somewhere between an average of 4-5 star rated apps. This does become more pronounced when apps are more popularly downloaded. Although while this average value is known to converge, curiously the deviation is more irregular in that it tends to be alot lesser on niche categories of apps such as those with few downloadsor of being a niche genre altogether.
+Since ratings are quantized in nature and people are fairly generous, it is unsurprising that most people just rate apps very highly and opinions converge towards somewhere between an average of 4-5 star rated apps. This effect of quantized ratings is more pronounced in apps with lesser installs as apps with more downloads can have average user ratings that are more representative of user opinion due to more data. Although while this average value is known to converge, curiously the deviation is more irregular in that it tends to be alot lesser on niche categories of apps such as those with few downloads or of being a niche genre altogether. 
 
 On the whole, people have a large variety of responses to popular apps although predictably this aggregrates to the same rating of between 4-5 star more or less. This is contrast to niche apps which somehow have more people in united agreement of an app being either good or bad. Popular apps have an ambigius response from users.
 
